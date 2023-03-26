@@ -1,0 +1,12 @@
+pandas==1.4.2
+matplotlib==3.5.1
+seaborn==0.11.2
+prophet==1.1.2
+plotly==5.6.0
+pandas_profiling==3.5.0
+scikit_learn==1.0.2
+numpy==1.21.5
+streamlit==1.14.0
+openpyxl==3.0.9
+feature_engine==1.4.1
+
